@@ -39,7 +39,7 @@ min-width: 100px;
     background-repeat: repeat;
     background-position: center;
     padding: 30px;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 /* change background later for mood */
